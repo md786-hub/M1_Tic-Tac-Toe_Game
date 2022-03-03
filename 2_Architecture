@@ -1,7 +1,10 @@
 # Architecture
+* The game is to be played between two people 
+* One of the player chooses 'O' and the other 'X' to mark their respective boxes.
+* The game starts with the one of the players and the game ends when one of the players has won whole row/column/diagonal filled with his/her respective character('O' or 'X')
+* If no one wins, then the game is said to be draw.
+
 
 ## Design
-* Structural
-* Behavioural
-    * Flow charts
-    * Use case diagrams
+* In our program the moves taken by the players are chosen randomly.
+* We need 9 boxes.
