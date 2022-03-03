@@ -1,15 +1,57 @@
 # Description
-* Describe about the project
+* TicTacToe 2 Players game using C programming
 
 # Requirements
+* There are many type of requirements for implementing this game 
+* but here I'm manily focusing on High level and low level requirements
 
 ## High level requirements
-* Features of my project
+* It should have a grid that's 3 square by 3 squares
+* It must work normal as one user should assign X and other with O
+* It should not announce winner untill all the boxes are full
+* The first player to get 3 of her marks in a row (up, down, across, or diagonally) is the winner.
 
 ## Low level requirements
-* How each feature is implemented
-* Linkage between high level to low level
+* If all the boxes are full without having 3 boxes (up, down, across, or diagonally) with same input it should announce as game is tied
+* You are X, your friend is O. Players take turns putting their marks in empty squares only.
 
 ## SWOT
 
+#Strength
+* The game tic-tac-toe which makes really interesting to play Owing to the nature of the rules, it is possible for the player to come up with multiple 
+* strategies to conquer the game While players have to look for their turn as well as look for their opposition's strategy as well
+
+#Weakness
+* Some of the rules defined are ambiguous and might lead to confusion during game play.
+* Only two player can play the game.
+* Many times we are not able to find winner because it ends up in tie many times.
+
+#Opportunity
+* The play board and the number of pieces can be increased giving rise to more complex strategies
+* The game rules can be tweaked around a little bit to make the game give result in winner or looser more frequently
+
+
+#Threat
+* It might not interest people as it gives tie not the winner most of the time.
+
+
 ## 4W & 1H
+
+#What
+* TicTacToe is a 2 Players game which played on a grid of boxes
+
+#Why
+* This game contributes to developmental growth in numerous ways including their understanding of predictability,
+* problem solving, spatial reasoning, hand-eye coordination, turn taking, and strategizing.
+
+#When
+* Tic Tac Toe was brought to the digital world in 1952 as a game called “OXO.” Produced by Sandy Douglas, 
+* a British computer scientist, OXO became one of the first known video games
+* that pit human players up against a computer opponent capable of playing perfect games
+
+#Where
+* We can play this game in phone, pc etc.
+
+#How
+* Each player picks one X in turn and to win, a player must select three boxes with the same symbol.  
+* plotted on a tic-tac-toe grid in such a way that a three-in-a-row line wins. Numerical Tic Tac Toe
